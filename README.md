@@ -10,8 +10,9 @@
 - Big data technologies (Spark)
 - Machine learning
 - Git & GitHub
+- Power bi
 - and more
-
+  
 ## Learning
 📚 Constantly learning and staying updated with the latest advancements in AI and Data Science.
 
